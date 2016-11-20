@@ -1,0 +1,23 @@
+{
+  "name": "multiplayer-server",
+  "version": "1.0.0",
+  "description": "Socket.io-based multiplayer server with support for RPC",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UnboundVR/multiplayer.git"
+  },
+  "author": "gmaliandi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UnboundVR/multiplayer/issues"
+  },
+  "homepage": "https://github.com/UnboundVR/multiplayer#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "socket.io": "^1.6.0"
+  }
+}
